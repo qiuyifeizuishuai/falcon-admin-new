@@ -1,0 +1,52 @@
+# osx noise
+.DS_Store
+profile
+
+*.log
+*.log.*
+*.pot
+*.py[cod]
+*.db
+*.iml
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.idea
+._*
+.sass-cache
+
+.sqlite3
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+*/local_settings.py
+
+*-ck.js
+
+# Node (Vue) App
+/bower_components
+/node_modules
+.env.local
+.env.*.local
+.env.*
+config.codekit
+config.codekit3
+
+# Django App
+/static/
+/media/
+.vscode/
+
+* copy.vue
